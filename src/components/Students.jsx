@@ -8,7 +8,6 @@ import {
     Th,
     Thead,
     Tr,
-    Divider,
 } from "@chakra-ui/react";
 import { BsPen } from "react-icons/bs";
 import React, { useContext } from "react";
